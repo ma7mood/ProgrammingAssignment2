@@ -1,5 +1,5 @@
 ## The two functions are used to create a 'special' matrix object
-## that stores a matrix and caches its mean.
+## that stores a matrix and caches its inverse.
 
 ## creates a special matrix object, essentially an 'interface'(list of 4 functions), 
 ## to get and set the matrix and its inverse
